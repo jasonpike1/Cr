@@ -1,0 +1,5 @@
+# Set build arguments here. See `gn help buildargs`.
+is_debug=false
+proprietary_codecs=true
+ffmpeg_branding="Chrome"
+
