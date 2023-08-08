@@ -1,5 +1,5 @@
 # Set build arguments here. See `gn help buildargs`.
-is_debug=false
+is_official_build=true
+chrome_pgo_phase=0
 proprietary_codecs=true
 ffmpeg_branding="Chrome"
-
